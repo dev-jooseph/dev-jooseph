@@ -37,15 +37,6 @@ With a few years of teaching experience, I’ve developed a deep appreciation fo
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-jooseph&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-jooseph&theme=github-dark-blue" width="45%" />
-</p>
-
----
-
 ### 🎓 Certifications & Learning
 
 - [Web Design for Everybody – University of Michigan (Coursera)](<A href='https://www.coursera.org/account/accomplishments/specialization/885ZYB4QTXH7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n'>certificate</a>)
