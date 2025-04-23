@@ -48,11 +48,9 @@ With a few years of teaching experience, I’ve developed a deep appreciation fo
 
 ### 🎓 Certifications & Learning
 
-<a href='https://coursera.org/share/2f52b5f0c93dfd1581823bae747809ac'>[Python for Everybody – University of Michigan (Coursera)]</a>
-
 - [Web Design for Everybody – University of Michigan (Coursera)](<A href='https://www.coursera.org/account/accomplishments/specialization/885ZYB4QTXH7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n'>certificate</a>)
 - [Web Design for Everybody – University of Michigan (Coursera)](<a href='https://coursera.org/share/2f52b5f0c93dfd1581823bae747809ac'>certificate</a>)
-- [Meta Front-End Developer Professional (In Progress)](<a href='https://www.coursera.org/professional-certificates/meta-front-end-developer'>(Coursera)</a>)
+- [Meta Front-End Developer Professional (In Progress)](<a href='https://www.coursera.org/professional-certificates/meta-front-end-developer'>Coursera</a>)
 
 _More to come..._
 
